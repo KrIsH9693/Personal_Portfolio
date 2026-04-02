@@ -1,6 +1,5 @@
 // App.tsx
 
-import { useState } from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
@@ -12,11 +11,9 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
 function App() {
-  const [darkMode, setDarkMode] = useState(true); // default dark
-
   return (
-    <div className={darkMode ? "dark bg-black text-white" : "bg-white text-black"}>
-      <Navbar darkMode={darkMode} setDarkMode={setDarkMode} />
+    <div className="bg-black text-white">
+      <Navbar /> {/* Dark mode removed */}
 
       {/* Sections */}
       <main className="pt-20">
