@@ -47,7 +47,7 @@ const projects = [
     techStack: ["React", "Tailwind CSS"],
     live: "https://personal-portfolio-nu-mauve-99.vercel.app/",
     github: "https://github.com/KrIsH9693/Personal_Portfolio.git",
-    screenshot: "/screenshots/travel-eternity-dashboard.png",
+    screenshot: "/screenshots/image (1).png",
   },
 ];
 
