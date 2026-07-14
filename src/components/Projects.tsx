@@ -41,6 +41,14 @@ const projects = [
     github: "https://github.com/KrIsH9693/travel_eternity-dashboard.git",
     screenshot: "/screenshots/travel-eternity-dashboard.png",
   },
+  {
+    title: "Personal Portfolio ",
+    description: "Showing my Skills as a Project,
+    techStack: ["React", "Tailwind CSS", ""],
+    live: "https://personal-portfolio-nu-mauve-99.vercel.app/",
+    github: "https://github.com/KrIsH9693/Personal_Portfolio.git",
+    screenshot: "/screenshots/travel-eternity-dashboard.png",
+  },
 ];
 
 export default function Projects() {
