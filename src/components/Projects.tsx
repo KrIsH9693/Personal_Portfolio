@@ -4,7 +4,7 @@ const projects = [
   {
     title: "Channel Manager",
     description: "A channel manager platform to sync hotel bookings from multiple sources.",
-    techStack: ["React", "Next.js", "Tailwind CSS"],
+    techStack: ["HTML", "CSS", "JavaScript"],
     live: "https://channel-manager-sable.vercel.app/",
     github: "https://github.com/KrIsH9693/Channel_Manager.git",
     screenshot: "/screenshots/channel-manager.png",
@@ -44,7 +44,7 @@ const projects = [
   {
     title: "Personal Portfolio ",
     description: "Showing my Skills as a Project",
-    techStack: ["React", "Tailwind CSS", ""],
+    techStack: ["React", "Tailwind CSS"],
     live: "https://personal-portfolio-nu-mauve-99.vercel.app/",
     github: "https://github.com/KrIsH9693/Personal_Portfolio.git",
     screenshot: "/screenshots/travel-eternity-dashboard.png",
