@@ -26,12 +26,12 @@ const projects = [
     screenshot: "/screenshots/landing-page.png",
   },
   {
-    title: "Cura Link",
-    description: "Healthcare platform UI/UX with seamless navigation and functionality.",
+    title: "Finance Dashboard",
+    description: "Expense Manage on a Single Dashboard",
     techStack: ["React", "Tailwind CSS"],
-    live: "https://cura-link-sand.vercel.app/",
-    github: "https://github.com/KrIsH9693/CuraLink.git",
-    screenshot: "/screenshots/cura-link.png",
+    live: "https://finance-dash-board-opal.vercel.app",
+    github: "https://github.com/KrIsH9693/Finance_DashBoard.git",
+    screenshot: "/screenshots/Finance Dashboard",
   },
   {
     title: "Travel Eternity Dashboard",
